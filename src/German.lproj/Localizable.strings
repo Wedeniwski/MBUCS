@@ -1,0 +1,104 @@
+// Allgemein
+"yes" = "Ja";
+"no" = "Nein";
+"cancel" = "Abbrechen";
+"edit" = "Ändern";
+"done" = "Fertig";
+"ok" = "OK";
+"error" = "Fehler!";
+"back" = "Zurück";
+"download" = "Download";
+"start" = "Start";
+"stop" = "Stop";
+"all" = "Alle";
+"version" = "Version";
+"date.format" = "dd.MM.yyyy";
+"Germany" = "Deutschland";
+"France" = "Frankreich";
+
+// Main
+"no.data" = "Keine Daten! Bitte aktualisieren drücken";
+
+// Cell in list of search results
+"list.cell.fit" = "%d%% Profil-Deckung";
+
+// Search View
+"search.tab.0" = "Passende Produktmerkmale";
+"search.tab.1" = "Ergebnisse (%d)";
+"search.placeholder" = "Gebrauchtwagensuche";
+
+// Search Bar
+"info.action.sheet.title" = "Einstellungen";
+"info.action.sheet.button1" = "Tutorium";
+"info.action.sheet.button2" = "Impressum";
+"info.action.sheet.button3" = "Profil";
+"action.sheet.title" = "Aktionen";
+"action.sheet.button1" = "Abfrage merken";
+"action.sheet.button2" = "Merkzettel";
+"action.sheet.button3" = "Feedback";
+
+// email
+"email.comment" = "Kommentar:";
+"email.subject" = "Rückmeldung";
+"email.app.version" = "App-Version";
+"email.data.version" = "Datenversion:";
+"email.query" = "Query:";
+"email.profile" = "Profil:";
+"email.results" = "Ergebnisse:";
+"email.attachments.image.title" = "Abbildungen";
+"email.attachments.higher.resolution" = "Wollen Sie Abbildungen mit höherer Bildauflösung hinzufügen?";
+"email.attachments.alt.image.title" = "Beispielhafte Abbildungen";
+"email.attachments.alt.higher.resolution" = "Es sind nur beispielhafte Abbildungen. Wollen Sie dennoch Abbildungen mit höherer Bildauflösung hinzufügen?";
+
+// Tutorial
+"tutorial.title" = "Tutorium";
+
+// Info-Sheet
+"about.action.sheet.title" = "Einstellungen";
+"about.title" = "Impressum";
+
+// Detailed View
+"detailed.view.title.favorite" = "Markiert";
+"detailed.view.send" = "Senden";
+"detailed.view.search.highlight" = "Suchkriterien hervorheben";
+"detailed.view.copyright" = "Die Daten inkl. Bilder sind möglicherweise urheberrechtlich geschützt.<br/>Im Folgenden finden Sie die Daten unter der Gebrauchtwagensuche GFZ %@ auf der <a href=\"#fullpage\">Web-Seite</a> der <a href=\"http://e-services.mercedes-benz.com/dsc_de/Dispatcher.jam?businessCase=UCu&amp;dsc_locale=de_DE&amp;SelfRedirect=true\">Online-Suche</a> von <a href=\"http://www.mercedes-benz.de/\">http://www.mercedes-benz.de/</a>";
+"detailed.view.buyer.preferences" = "Vorlieben";
+"detailed.view.car.description" = "Fahrzeugdaten";
+"detailed.view.exit" = "App MBUCS verlassen";
+"detailed.view.exit.text" = "Aufruf der Web-Seite";
+"detailed.view.exit.link" = "http://www.mercedes-benz.de/";
+"detailed.view.click.image.enlarge" = "Abbildungen werden beim Berühren vergrößert";
+"detailed.view.click.alt.image.enlarge" = "<b>Beispielhafte Abbildungen</b> werden beim Berühren vergrößert";
+"detailed.view.images.copyright" = "Die Bilder sind möglicherweise urheberrechtlich geschützt.<br/>Im Folgenden finden Sie die Daten unter der Gebrauchtwagensuche GFZ %@ auf der Seite http://www.mercedes-benz.de/";
+"detailed.view.images.title" = "Abbildungen";
+"detailed.view.image" = "Abbildung";
+"detailed.view.alt.images.title" = "Beispielhafte Abbildungen";
+"detailed.view.alt.image" = "Beispielhafte Abbildung";
+"detailed.view.sold" = "Datensatz ist nicht mehr online verfügbar!";
+
+// Bookmarks View
+"bookmarks.title" = "Markierungen";
+"bookmarks.table.header.used.cars" = "Gebrauchtwagen";
+"bookmarks.table.header.queries" = "Abfragen";
+
+// Import
+"import.data.init" = "Daten (vom %@) werden importiert";
+"import.data.progress" = "Daten importieren...";
+
+// Update
+"update.title" = "Verfügbar";
+"update.alert.title" = "Datenaktualisierung";
+"update.alert.error" = "Keine Verbindung zum Server möglich";
+"update.alert.text" = "Alle Daten sind aktuell";
+"update.alert.cannot.connect" = "Server kann nicht verbunden werden (z.B. Security Settings / Proxy).";
+"update.alert.necessary" = "Lokale Daten sind nicht mehr aktuell (Aktualisierung ist notwendig) oder Server kann nicht verbunden werden (z.B. Security Settings / Proxy).";
+"update.alert.available" = "Es existieren aktuellere Daten (%@). Wollen Sie diese herunterladen?";
+"update.alert.updated" = "Alle Daten aktualisiert";
+"update.alert.bookmarks" = "Sie haben Autos in der Merkliste abgelegt, die bei der Aktualisierung verloren gehen. Aktualisierung fortsetzen?";
+"update.download.info" = "Daten werden heruntergeladen...";
+"update.download.imported" = "Daten erfolgreich importiert";
+"update.download.imported.error" = "Daten konnten nicht aktualisiert werden";
+"update.validate.download.info" = "Datenvalidierung";
+"update.unzip.info" = "Daten entpacken...";
+"update.download.error" = "Fehler: %@";
+"update.download.error.hash" = "Fehlerhafter Hash-Code der heruntergeladenen Daten";

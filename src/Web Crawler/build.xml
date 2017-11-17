@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<!--
+(c) 2010 Sebastian Wedeniwski
+ -->
+
+<project name="WebCrawler" default="dist" basedir=".">
+  <property name="src" location="."/>
+  <property name="build" location="build"/>
+  <property name="dist"  location="."/>
+
+  <target name="init">
+    <tstamp/>
+    <mkdir dir="${build}"/>
+  </target>
+
+  <target name="compile" depends="init">
+    <javac srcdir="${src}" destdir="${build}" debug="on"/>
+  </target>
+
+  <target name="dist" depends="compile">
+    <jar jarfile="${dist}/${ant.project.name}.jar" basedir="${build}">
+      <manifest>
+        <attribute name="Main-Class" value="WebCrawler"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="clean" description="Clean up">
+    <delete dir="${build}"/>
+  </target>
+</project>

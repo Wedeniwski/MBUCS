@@ -1,0 +1,104 @@
+// Allgemein
+"yes" = "Yes";
+"no" = "No";
+"cancel" = "Cancel";
+"edit" = "Edit";
+"done" = "Done";
+"ok" = "OK";
+"error" = "Error!";
+"back" = "Back";
+"download" = "Download";
+"start" = "Start";
+"stop" = "Stop"; 
+"all" = "All";
+"version" = "Version";
+"date.format" = "dd/MM/yyyy";
+"Germany" = "Germany";
+"France" = "France";
+
+// Main
+"no.data" = "No data! Please press refresh";
+
+// Cell in list of search results
+"list.cell.fit" = "%d%% Fit to Profile";
+
+// Search View
+"search.tab.0" = "Matching Product Properties";
+"search.tab.1" = "Results (%d)";
+"search.placeholder" = "Used Car Search";
+
+// Search Bar
+"info.action.sheet.title" = "Settings";
+"info.action.sheet.button1" = "Tutorial";
+"info.action.sheet.button2" = "About";
+"info.action.sheet.button3" = "Profile";
+"action.sheet.title" = "Actions";
+"action.sheet.button1" = "Mark query";
+"action.sheet.button2" = "Favorite list";
+"action.sheet.button3" = "Feedback";
+
+// email
+"email.comment" = "Comment:";
+"email.subject" = "Feedback";
+"email.app.version" = "App version:";
+"email.data.version" = "Data version:";
+"email.query" = "Query:";
+"email.profile" = "Profile:";
+"email.results" = "Results:";
+"email.attachments.image.title" = "Images";
+"email.attachments.higher.resolution" = "Do you want to attach images with higher resolution?";
+"email.attachments.alt.image.title" = "Exemplary Images";
+"email.attachments.alt.higher.resolution" = "These are exemplary images only. Do you want to attach images with higher resolution?";
+
+// Tutorial
+"tutorial.title" = "Tutorial";
+
+// Info-Sheet
+"about.action.sheet.title" = "Settings";
+"about.title" = "About";
+
+// Detailed View
+"detailed.view.title.favorite" = "Marked";
+"detailed.view.send" = "Send";
+"detailed.view.search.highlight" = "Highlight search";
+"detailed.view.copyright" = "These data incl. images may be subject to copyright.<br/>You can find the data through the used car search GFZ %@ on the <a href=\"#fullpage\">Web page</a> of the <a href=\"http://e-services.mercedes-benz.com/dsc_de/Dispatcher.jam?businessCase=UCu&amp;dsc_locale=de_DE&amp;SelfRedirect=true\">Online Search</a> at <a href=\"http://www.mercedes-benz.de/\">http://www.mercedes-benz.de/</a>";
+"detailed.view.buyer.preferences" = "Buyer Preferences";
+"detailed.view.car.description" = "Car Description";
+"detailed.view.exit" = "Exit App MBUCS";
+"detailed.view.exit.text" = "Go to the Web page";
+"detailed.view.exit.link" = "http://www.mercedes-benz.de/";
+"detailed.view.click.image.enlarge" = "Click images to enlarge";
+"detailed.view.click.alt.image.enlarge" = "Click <b>exemplary images</b> to enlarge";
+"detailed.view.images.copyright" = "These data incl. images may be subject to copyright.<br/>You can find the data through the used car search GFZ %@ at http://www.mercedes-benz.de/";
+"detailed.view.images.title" = "Images";
+"detailed.view.image" = "Image";
+"detailed.view.alt.images.title" = "Exemplary Images";
+"detailed.view.alt.image" = "Exemplary Image";
+"detailed.view.sold" = "Data is not available online anymore!";
+
+// Bookmarks View
+"bookmarks.title" = "Marked Favorites";
+"bookmarks.table.header.used.cars" = "Used Cars";
+"bookmarks.table.header.queries" = "Queries";
+
+// Import
+"import.data.init" = "Importing data (from %@)";
+"import.data.progress" = "Import data...";
+
+// Update
+"update.title" = "Available";
+"update.alert.title" = "Data updates";
+"update.alert.error" = "Server cannot be connected";
+"update.alert.text" = "All data are up to date";
+"update.alert.cannot.connect" = "Server cannot be connected (e.g. security settings / proxy).";
+"update.alert.necessary" = "Local data are not up-to-date (update necessary) or server cannot be connected (e.g. security settings / proxy).";
+"update.alert.available" = "There are updates (%@) available. Do you want to download them?";
+"update.alert.updated" = "All data updated";
+"update.alert.bookmarks" = "You have cars bookmarked which will be deleted through the update. Do you want to continue?";
+"update.download.info" = "Download data...";
+"update.download.imported" = "Data successfully imported";
+"update.download.imported.error" = "Data could not be updated";
+"update.validate.download.info" = "Data validation";
+"update.unzip.info" = "Unzip data...";
+"update.download.error" = "Error: %@";
+"update.download.error.hash" = "Wrong hash code for downloaded data";

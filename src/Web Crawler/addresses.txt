@@ -1,0 +1,758 @@
+49.188648,11.191924,Daimlerstraße 7, 91161 Hilpoltstein
+51.53872,7.17862,Dorstener Straße 329, 44653 Herne
+48.16786,8.6275,Rheinwaldstraße 2, 78628 Rottweil
+49.5443,9.724817,Käppeleweg 3, 97922 Lauda-Königshofen
+54.107122,12.067824,Schutower Straße 2, 18069 Rostock
+52.239435,8.923765,Feldstraße 31, 32457 Porta Westfalica
+47.555302,10.230616,Sonthofener Straße 55 - 57, 87509 Immenstadt
+51.194073,7.013543,Flurstraße 114, 42781 Haan
+53.92361,9.515245,Störfischerstraße 3, 25524 Itzehoe
+49.972255,6.52291,Dieselstraße 22, 54634 Bitburg
+49.184448,9.199724,Wimpfener Straße 120 + 122, 74078 Heilbronn
+47.737129,11.547044,Lenggrieser Straße 87, 83646 Bad Tölz
+50.747795,12.485187,Schubertstraße 1, 08058 Zwickau
+50.355927,11.183783,Köppelsdorfer Straße 74, 96515 Sonneberg
+47.883785,10.63348,Augsburger Straße 28, 87600 Kaufbeuren
+50.70195,12.77173,Auer Straße 18, 09366 Stollberg
+51.550895,9.87123,Willi-Eichler-Straße 34, 37079 Göttingen
+51.236187,7.611262,Im Olpendahl 64, 58507 Lüdenscheid
+47.663855,9.17758,Maybachstraße 9, 78467 Konstanz
+53.041202,8.674647,Syker Straße 267 - 275, 27751 Delmenhorst
+49.784889,9.93951,Randersackerer Straße 54, 97072 Würzburg
+48.630268,9.809941,Stuttgarter Straße 359, 73312 Geislingen
+48.565886,11.250928,Westendstraße 1, 86529 Schrobenhausen
+53.25853,7.92719,Kuhlenstraße 48, 26655 Westerstede
+49.728702,10.194403,Max-Planck-Straße 2, 97318 Kitzingen
+48.983615,12.103031,Benzstraße 2, 93053 Regensburg
+49.277925,11.45997,Nürnberger Straße 35, 92318 Neumarkt
+53.572353,9.850843,Osdorfer Landstraße 193 - 217, 22549 Hamburg
+51.951186,10.383834,Bornhardtstraße 1, 38644 Goslar
+50.970586,6.119221,Heinsberger Straße 76, 52511 Geilenkirchen
+50.320905,7.538315,Beatusstraße 20, 56073 Koblenz
+51.26439,6.54875,Daimlerstraße 1 - 3, 47877 Willich
+51.553024,8.099685,Am Bohnenpfad 1, 59494 Soest
+50.702727,8.442995,Herborner Straße 2, 35649 Bischoffen
+48.780319,9.250847,Mercedesstraße 137, 70327 Stuttgart
+50.973091,10.96815,Binderslebener Landstraße 92, 99092 Erfurt
+50.739086,7.078487,Bornheimer Straße 200, 53119 Bonn
+48.258277,8.84928,Lange Straße 40, 72336 Balingen
+53.180309,8.23139,Haseler Weg 1, 26125 Oldenburg
+51.350388,7.440134,Berliner Straße 41, 58135 Hagen
+51.871647,12.619392,Gottlieb-Daimler-Straße 1, 06886 Lutherstadt Wittenberg
+51.021647,11.486259,Erfurter Straße 111, 99510 Apolda
+49.576015,10.967673,Frauenauracher Straße 95, 91056 Erlangen
+48.339934,7.821879,Gottlieb-Daimler-Straße 6, 77933 Lahr
+50.347665,9.523305,Gartenstraße 42, 36381 Schlüchtern
+47.84602,9.001301,Radolfzeller Straße 25, 78333 Stockach
+54.314175,10.032435,Daimlerstraße 1, 24109 Kiel
+50.48382,12.38805,Weißmühlenweg 2, 08236 Ellefeld
+49.994805,8.410485,Eisenstraße 50, 65428 Rüsselsheim
+53.11355,8.456558,Bremer Straße 22, 27798 Hude
+49.817717,8.616116,Robert-Bosch-Straße 20, 64319 Pfungstadt
+50.257453,11.314621,Blumau 3, 96317 Kronach
+51.485955,7.210866,Universitätsstraße 44 - 46, 44789 Bochum
+52.51182,9.06966,Große Brinkstraße 1, 31592 Stolzenau
+51.179279,7.19302,Niederlassung Wuppertal/Solingen/, Remscheid
+50.862941,8.021227,Leimbachstraße 117, 57074 Siegen
+52.058983,8.365396,Bielefelder Straße 2 - 4, 33790 Halle/Westfalen
+48.636665,9.011795,Umgehungsstraße 21, 71088 Holzgerlingen
+47.620129,8.254014,Nikolaus-Otto-Straße 4, 79761 Waldshut-Tiengen
+51.963088,8.839824,Westerfeldstraße 25, 32758 Detmold
+51.164181,10.45415,Gesellschaft mbH &amp; Co KG, AutorisierterMercedes-, Benz Verkauf und Service
+51.818024,12.176899,Ernst-Zindel-Straße 3, 06847 Dessau
+50.624975,6.962351,Meckenheimer Straße 12, 53359 Rheinbach
+49.427601,11.05428,Löffelholzstraße 30, 90441 Nürnberg
+52.115278,7.398271,Altenberger Straße 55, 48565 Steinfurt
+53.797595,12.201919,Verbindungschaussee 8 C, 18273 Güstrow
+48.830956,9.135613,Zuffenhauser Straße 95, 70825 Korntal-Münchingen
+48.634154,11.77825,Karl-Benz-Straße 2, 84048 Mainburg
+48.693192,8.14605,Dieselstraße 8, 77815 Bühl
+49.444404,10.990736,Schwabacher Straße 380, 90763 Fürth
+50.043671,10.50102,Industriestraße 43, 97437 Haßfurt
+53.558367,8.1033,Dodoweg 29, 26386 Wilhelmshaven
+51.841948,6.856386,Siemensstraße 2, 46325 Borken
+49.527908,6.932305,Mittelbachweg 1, 66687 Wadern
+49.810291,7.137629,Industriestraße 5, 54497 Morbach
+51.945638,7.169656,Dülmener Straße 125, 48653 Coesfeld
+48.047815,8.20745,Triberger Straße 13, 78120 Furtwangen
+51.48922,6.882832,Centroallee 264, 46047 Oberhausen
+51.961066,6.990312,Grenzlandring 40, 48712 Gescher
+51.164175,10.454145,AHG-, Autohandelsgesellschaft mbH&amp; Co. KG
+47.572587,9.663457,Kemptener Straße 114 - 116, 88131 Lindau
+51.834045,8.304553,Hauptstraße 137, 33378 Rheda-Wiedenbrück
+51.76331,11.4699,Daimlerstraße 1, 06449 Aschersleben
+49.231847,6.984279,Untertürkheimer Straße 1, 66117 Saarbrücken
+51.568822,6.732447,Wilhelm-Lantermann-Straße 102 - 104, 46535 Dinslaken
+48.061015,12.172195,Staudhamer Feld 4, 83512 Wasserburg
+48.553883,12.807314,Eggenfeldener Straße 46, 94424 Arnstorf
+52.617957,11.867113,Arneburger Straße 140, 39576 Stendal
+51.656279,6.948974,Duvenkamp 10, 46282 Dorsten
+48.144638,11.487408,Landsberger Straße 382, 80687 München
+49.299554,7.056696,Sulzbachtalstraße 32, 66280 Sulzbach
+47.73299,10.33692,Daimlerstraße 60, 87437 Kempten
+53.710235,12.97043,Werdohler Straße 4, 17153 Stavenhagen
+48.93551,8.427477,Pforzheimer Straße 106, 76275 Ettlingen
+51.376341,7.762828,Zeppelinstraße 86, 58675 Hemer
+48.788234,9.887748,Lorcher Straße 151, 73529 Schwäbisch Gmünd
+48.805374,9.509555,Stuttgarter Straße 60, 73614 Schorndorf
+52.082005,7.998354,Osnabrücker Straße 22, 49219 Glandorf
+48.049543,10.876584,Justus-von-Liebig-Straße 2, 86899 Landsberg
+50.004311,8.793507,Justus-von-Liebig-Straße 22, 63128 Dietzenbach
+52.593483,12.338321,Milower Landstraße 35 A, 14712 Rathenow
+49.041694,8.672997,Gondelsheimer Straße 19, 75015 Bretten
+52.087949,7.231656,Eggeroder Straße 2, 48624 Schöppingen
+51.5152,14.00963,Grubenstraße 1, 01968 Senftenberg
+47.55522,7.949085,Friedrichstraße 7, 79713 Bad Säckingen
+49.30128,9.65171,Maybachstraße 7, 74653 Künzelsau
+48.718145,10.780483,Rosenstraße 12, 86609 Donauwörth
+53.581202,9.495274,Carl-Benz-Straße 10, 21684 Stade
+50.406268,8.061932,Limburger Straße 62, 65555 Limburg
+48.561477,12.156565,Moosfeldstraße 32, 84030 Ergolding
+48.705615,8.766518,Gottlob-Bauknecht-Straße 40, 75365 Calw
+53.458208,7.495355,Leerer Landstraße 78, 26605 Aurich
+51.761102,8.034841,Vorhelmer Straße 68, 59269 Beckum
+54.273212,13.112732,Gustower Weg 9, 18439 Stralsund
+49.340268,9.118729,Mosbacher Straße 64 - 68, 74821 Mosbach
+50.149485,8.621143,Heerstraße 66, 60488 Frankfurt/Main
+52.84082,8.066838,Emsteker Straße 95, 49661 Cloppenburg
+52.20769,8.78107,Am Kokturkanal 11, 32545 Bad Oeynhausen
+51.376082,7.699024,Seeuferstraße 4, 58636 Iserlohn
+51.627386,12.336234,Wittenberger Straße 22, 06749 Bitterfeld-Wolfen
+51.665249,7.766457,Dortmunder Straße 84 - 90, 59067 Hamm
+52.70412,7.287152,Am Kabelkran 4, 49716 Meppen
+49.250102,6.817044,Zum Sitters 5 - 7, 66787 Wadgassen
+51.196292,6.694103,Moselstraße 6, 41464 Neuss
+49.20179,9.50581,Haller Straße 60, 74613 Öhringen
+47.86741,12.640055,Hochstraße 12 - 14, 83278 Traunstein
+47.492874,11.086801,Hauptstraße 2, 82467 Garmisch-Partenkirchen
+53.444984,11.835463,Neuhofer Weiche 43 - 44, 19370 Parchim
+53.618485,9.952005,Kollaustraße 171, 22453 Hamburg
+53.282005,9.50568,Stader Straße 9, 27419 Sittensen
+52.145339,12.61278,Im Gewerbepark Seedoche 1, 14806 Belzig
+51.113385,6.95112,Berghausener Straße 100, 40764 Langenfeld
+52.453465,8.482532,Schröttinghauser Straße 23 - 24, 32351 Stemwede
+51.644574,8.506395,Bürener Straße 27, 59590 Geseke
+49.021662,8.351289,Schoemperlenstraße 14, 76185 Karlsruhe
+48.924443,9.150749,Frankfurter Straße 6, 71732 Tamm
+52.483074,7.212418,Lilienthalstraße 6, 49835 Wietmarschen
+51.663761,7.634069,Kamener Straße 43, 59368 Werne a. d. Lippe
+53.214665,8.778029,Ritterhuder Straße 55, 27711 Osterholz-Scharmbeck
+50.864749,12.906353,Blankenburgstraße 116, 09114 Chemnitz
+51.656827,9.654373,Ernst-Reuter-Straße 2, 37170 Uslar
+49.758674,9.517351,Schwarzwaldstraße 16, 97877 Wertheim
+53.141572,8.908043,Goebelstraße 32 - 36, 28865 Lilienthal
+53.080917,8.88356,Emil-Sommer-Straße 12, 28329 Bremen
+51.164181,10.45415,Werner-Seelenbinder-, Straße 11 B
+52.116763,9.34537,Wehrberger Straße 42, 31785 Hameln
+50.3367,8.757265,Gießener Straße 40, 61169 Friedberg
+52.089041,8.730759,Herforder Straße 103, 32105 Bad Salzuflen
+53.587913,10.092898,Friedrich-Ebert-Damm 115, 22047 Hamburg
+48.968515,13.128485,Molkereistraße 13, 94209 Regen
+52.264975,8.008518,Blumenhaller Weg 155, 49078 Osnabrück
+52.30645,8.848675,Ringstraße 2 - 4, 32427 Minden
+52.22904,10.997088,Braunschweiger Tor 37, 38350 Helmstedt
+48.745602,11.20463,Münchener Straße 134, 86633 Neuburg
+53.29326,10.388937,Daimlerstraße 1, 21357 Bardowick
+50.999848,13.793723,Fritz-Meinhardt-Straße 1, 01239 Dresden
+48.983615,12.103031,Benzstraße 23, 93053 Regensburg
+53.611735,10.404074,Bahnhofstraße 48, 22946 Trittau
+51.905079,7.488689,Am Dorn 2, 48308 Senden
+52.337145,14.069291,Autofocus 3, 15517 Fürstenwalde
+52.728455,10.735847,Lessingstraße 1, 29378 Wittingen
+54.771165,9.396092,Lilienthalstraße 18, 24941 Flensburg
+51.433259,6.844012,Weseler Straße 100 - 108, 45478 Mülheim a.d. Ruhr
+51.894034,8.409353,Verler Straße 208, 33332 Gütersloh
+51.065257,6.100932,Industriestraße 3, 52525 Heinsberg
+51.164181,10.45415,Daniel-Wilhelm-Beck-, Straße 6
+48.691647,10.159063,In den Seewiesen 4, 89520 Heidenheim
+47.76733,9.15919,Abigstraße 6, 88662 Überlingen
+48.088779,9.788925,Leipzigstraße 51, 88400 Biberach
+48.962089,9.431619,Sulzbacher Straße 182 - 186, 71522 Backnang
+51.2573,6.39081,Freiheitsstraße 178, 41747 Viersen
+49.911869,10.88731,Kärntenstraße 1, 96052 Bamberg
+51.164181,10.45415,AHG-, Autohandelsgesellschaft mbH &amp; Co. KG
+49.25048,8.904277,Heilbronner Straße 70, 74889 Sinsheim
+50.222722,8.619405,Hessenring 64, 61348 Bad Homburg
+50.475077,7.793393,Christian-Heibel-Straße 48, 56422 Wirges
+50.983882,7.538699,Kölner Straße 154 - 156, 51645 Gummersbach
+49.143145,9.219295,Südstraße 40, 74072 Heilbronn
+51.25076,6.805505,Mercedesstraße 1, 40470 Düsseldorf
+49.33827,10.787055,Bauhofstraße 16, 91560 Heilsbronn
+48.822101,9.315482,Alte Bundesstraße 45, 71332 Waiblingen
+51.359843,6.613101,Magdeburger Straße 80, 47800 Krefeld
+51.209307,6.46376,Krefelder Straße 180, 41063 Mönchengladbach
+48.816039,9.204967,Hallschlag 65, 70376 Stuttgart
+51.673457,6.163194,Höster Weg 10, 47574 Goch
+49.489646,9.79749,Igersheimer Straße 80, 97980 Bad Mergentheim
+47.684894,11.203502,Weilheimer Straße 39 - 41, 82418 Murnau
+50.641011,6.706835,Ginsterberg 1, 53894 Mechernich
+54.730235,8.706805,Bahnhofstraße 15, 25899 Niebüll
+48.546656,9.273973,Gutenbergstraße 29, 72555 Metzingen
+50.825914,8.773818,Neue Kasseler Straße 50 - 52, 35039 Marburg
+49.451509,11.08865,Kressengartenstraße 14, 90402 Nürnberg
+50.466599,8.134189,Gottlieb-Daimler-Straße 1, 65614 Beselich
+52.850464,13.818942,Neue Straße 3, 16225 Eberswalde
+51.790431,6.137775,Dieselstraße 6, 47533 Kleve
+51.158402,8.298353,Im Brauke 7, 57392 Schmallenberg
+51.32074,7.061105,Nevigeser Straße 140 - 148, 42553 Velbert
+51.578412,12.647636,Torgauer Straße 25 A, 04849 Bad Düben
+51.494574,10.813314,Hallesche Straße 102, 99734 Nordhausen
+53.020798,9.001889,Auf den Mehren 40, 28832 Achim
+47.98634,10.180405,Allgäuer Straße 41 - 47, 87700 Memmingen
+48.352286,8.637022,Gottlieb-Daimler-Straße 10, 72172 Sulz am Neckar
+52.264204,9.77256,Johann-Koch-Straße 3, 30982 Pattensen
+52.675593,7.958669,Hindenburgstraße 21, 49610 Quakenbrück
+50.674615,9.764,Wellastraße 8, 36088 Hünfeld
+52.403433,9.792148,Podbielskistraße 293, 30655 Hannover
+53.430295,10.37425,Steinstraße 80, 21502 Geesthacht
+52.486145,10.519984,Celler Straße 109, 38518 Gifhorn
+49.783482,9.14212,Landstraße 62, 63939 Wörth/Main
+48.740134,9.16538,Sigmaringer Straße 260, 70597 Stuttgart
+50.904758,7.04891,Frankfurter Straße 778, 51149 Köln
+50.169781,11.689683,August-Horch-Straße 2, 95213 Münchberg
+50.748272,8.276057,Am Rabenborn 1, 35683 Dillenburg
+50.993711,10.294932,Kasseler Straße 214, 99817 Eisenach
+51.61194,7.56397,Lange Straße 100, 44532 Lünen
+51.895342,11.049883,Am Sülzegraben 1, 38820 Halberstadt
+53.50816,8.59517,Weserstraße 199 - 205, 27572 Bremerhaven
+51.477651,6.793527,Johannes-Mechmann-Straße 2 - 4, 47138 Duisburg
+48.346725,10.904863,Haunstetter Straße 73, 86161 Augsburg
+49.711088,7.361041,Carl-Benz-Straße 1, 55743 Idar-Oberstein
+48.879867,13.390017,Josef-Buchinger-Straße 5, 94481 Grafenau
+48.705827,9.584786,Mercedesstraße 1 - 10, 73066 Uhingen
+53.020701,7.859624,Elbestraße 2 B, 26169 Friesoythe
+51.8929,10.17581,Küstriner Straße 3, 38723 Seesen
+50.882132,8.54664,Marburger Straße 30, 35216 Biedenkopf
+51.15584,6.490575,Erftstraße 30, 41238 Mönchengladbach
+47.951135,8.500521,Dürrheimer Straße 12, 78166 Donaueschingen
+48.780319,9.250847,Mercedesstraße 131/2 (Einfahrt über Benzstraße, Tor 12), 70327 Stuttgart
+54.194823,9.124722,Lise-Meitner-Straße 1 - 3, 25746 Heide
+49.810582,9.986719,Nürnberger Straße 131 B, 97076 Würzburg
+49.195585,12.517172,Chamer Straße 44, 93426 Roding
+48.855622,12.962556,Graflinger Straße 222, 94469 Deggendorf
+50.297207,8.688397,Robert-Bosch-Straße 2 - 8, 61191 Rosbach
+52.986727,9.841318,Lüneburger Straße 141 - 145, 29614 Soltau
+48.81226,9.365395,Mercedesstraße 2 - 4, 71384 Weinstadt
+50.953239,6.936949,Am Gleisdreieck 1 - 5, 50823 Köln
+52.247104,10.51163,Frankfurter Straße 49, 38122 Braunschweig
+51.435699,7.79404,Fröndenberger Straße 146, 58706 Menden
+48.881433,12.57373,Osserstraße 2, 94315 Straubing
+49.338383,11.020134,Berlichingenstraße 6, 91126 Schwabach
+50.978616,7.121627,Gudrunweg 2, 51469 Bergisch Gladbach
+51.193564,10.483731,Am Felchtaer Bach 99, 99974 Mühlhausen
+50.128953,7.147811,Industriering 11, 56812 Cochem
+52.538589,13.53415,Rhinstraße 120, 12681 Berlin
+49.425925,6.635012,Saarbrücker Allee 73, 66663 Merzig
+51.041199,13.5886,Zum Stern 2, 01723 Kesselsdorf
+53.129925,8.22569,Bremer Heerstraße 267, 26135 Oldenburg
+50.913879,13.36942,Dresdner Strasse 58, 09599 Freiberg
+53.59219,9.70268,Industriestraße 12 - 14, 22880 Wedel
+50.18211,8.468215,Mammolshainerweg 1 A, 61462 Königstein
+48.313604,11.893335,Robert-Bosch-Straße 9, 85435 Erding
+53.59879,10.71683,Ratzeburger Straße 41, 23879 Mölln
+51.195026,6.417709,Waldnieler Straße 90, 41068 Mönchengladbach
+50.085201,8.78384,Daimlerstraße 27, 63071 Offenbach/Main
+49.558972,8.18373,Ferdinand-Porsche-Straße 18, 67269 Grünstadt
+49.851372,8.60227,Rheinstraße 100, 64295 Darmstadt
+52.421806,13.517546,Neudecker Weg 6, 12355 Berlin
+49.484862,10.779504,Mühlsteig 7, 90579 Langenzenn
+49.55495,8.670685,Viernheimer Straße 100, 69469 Weinheim
+52.556851,7.933236,Werner-von-Siemens-Straße 2, 49593 Bersenbrück
+49.330258,8.550114,Ernst-Brauch-Straße 68 - 70, 68766 Hockenheim
+53.454432,10.006258,Großmoorbogen 23, 21079 Hamburg
+48.42058,9.64021,Dottinger Straße 81, 72525 Münsingen
+53.749057,9.685935,Hamburger Straße 130, 25337 Elmshorn
+53.591836,10.089873,Tilsiter Straße 90, 22047 Hamburg
+52.440871,7.086479,Lingener Straße 115, 48531 Nordhorn
+50.140653,8.448275,Dieselstraße 4, 65779 Kelkheim
+48.68699,9.007395,Wolf-Hirth Straße 28, 71034 Böblingen
+48.794903,12.906876,Pankofen Irlwiesen 3, 94447 Plattling
+51.162949,13.47723,Ziegelstraße 8, 01662 Meißen
+51.74315,7.18779,Recklinghauser Straße 174 - 176, 45721 Haltern am See
+51.469858,12.206418,Zeppelinstraße 6, 04509 Wiedemar
+51.294455,7.29109,Berliner Straße 15, 58332 Schwelm
+52.42994,9.612385,Im Bahlbrink 1, 30827 Garbsen
+54.138718,10.61445,Lübecker Landstraße 36, 23701 Eutin
+48.156844,12.00072,Isener Straße 7, 85664 Hohenlinden
+50.724077,11.736365,Zum Mühlenberg 1, 07806 Neustadt/Orla
+49.391289,11.38598,Nürnberger Straße 31, 90518 Altdorf
+48.402381,12.76292,Öttinger Straße 25, 84307 Eggenfelden
+54.315284,9.627749,Lundener Straße 4 - 6, 24768 Rendsburg
+48.876376,12.572617,Landshuter Straße 1, 94315 Straubing
+51.951186,10.383834,Bornhardtstraße1, 38644 Goslar
+51.164181,10.45415,Franz-Stelzenberger-, Straße 12
+49.908067,11.607184,Wolfsbacher Straße 10, 95448 Bayreuth
+51.164181,10.45415,AutorisierterMercedes-, Benz Verkauf und Service
+50.112134,11.456805,Albert-Ruckdeschel-Straße 31, 95326 Kulmbach
+48.19746,11.798575,Erdinger Straße24, 85652 Landsham
+50.854614,12.779706,Chemnitzer Straße 52, 09212 Limbach-Oberfrohna
+52.291223,7.44198,Oldenburger Straße 1 - 11, 48429 Rheine
+48.243286,12.518933,Felix-Gebhardt-Straße 1, 84453 Mühldorf
+48.0746,9.945592,Güterbahnhof 6, 88416 Ochsenhausen
+52.5023,13.413015,Prinzessinnenstraße 21 - 24, 10969 Berlin
+51.067376,10.077258,Aachener Straße 19, 52349 Düren
+54.080751,12.192246,Tessiner Straße 96, 18055 Rostock
+51.643679,7.094979,Rostocker Straße 1, 45770 Marl
+49.353926,8.134447,Branchweilerhofstraße 123, 67433 Neustadt
+51.493287,10.819177,Hallesche Straße 148, 99734 Nordhausen
+51.43924,14.23909,Gewerbegebiet Nardt, Ackerstraße 1, 02977 Hoyerswerda
+48.824925,10.068118,Carl-Zeiss-Straße 49, 73431 Aalen
+48.0022,12.400138,Wasserburger Straße 31, 83119 Obing
+49.188925,9.201158,Neckargartacher Straße 73 - 75, 74172 Neckarsulm
+53.174236,8.651982,Vegesacker Heerstraße 73 - 77, 28757 Bremen
+48.800045,9.062855,Siemensstraße 60, 70839 Gerlingen
+51.539497,7.454281,Lindenhorster Straße 35 - 41, 44147 Dortmund
+50.313259,11.906216,Ernst-Reuter-Straße 65, 95030 Hof
+51.503582,9.385463,Robert-Bosch-Straße 2, 34369 Hofgeismar
+53.538871,13.264686,Neustrelitzer Straße 111, 17033 Neubrandenburg
+50.169708,12.13076,Weißenbacher Straße 85, 95090 Selb
+52.053134,8.374359,Bielefelder Straße 59 - 61, 33790 Halle/Westfalen
+51.094855,11.948314,Heinrich-Hertz-Straße 1, 06667 Weißenfels
+49.34357,7.180115,Zweibrücker Straße 99, 66538 Neunkirchen
+50.98665,7.409105,Olpener Straße 33 - 35, 51766 Engelskirchen
+51.49824,6.837489,Max-Eyth-Straße 1, 46149 Oberhausen
+52.841661,11.187702,Arendseer Straße 28, 29410 Salzwedel
+49.752515,6.631095,Karl-Marx-Straße 62, 54290 Trier
+51.468235,7.131795,Berliner Straße 80 - 86, 44867 Bochum
+47.597761,7.597803,Neudorfer Straße 10, 79576 Weil am Rhein
+48.801006,8.321473,Waldstraße 31 A, 76571 Gaggenau
+53.364349,10.207904,Luhdorfer Straße 130, 21423 Winsen
+52.086083,7.019872,Heeker Straße 45, 48683 Ahaus
+50.949997,11.300611,Holzdorfer Allee 2, 99428 Weimar
+48.313865,10.056396,Friedrich-List-Straße 5, 89250 Senden
+48.188367,11.779249,Erdinger Straße 24, 85652 Landsham
+51.431252,14.60114,Industriestraße Ost 5, 02943 Weißwasser
+52.660099,8.22642,Langweger Straße 2, 49393 Lohne
+48.22295,10.10509,Von-Helmholtz-Straße 15, 89257 Illertissen
+53.601942,7.188529,Norddeicher Straße 48 - 49, 26506 Norden
+51.086402,6.307085,St.-Rochus-Weg 1, 41812 Erkelenz
+49.674031,12.156336,Am Wörnzgraben 2, 92637 Weiden
+50.869544,11.599249,Daimler-Benz-Straße 1, 07751 Sulza-Jena
+50.919293,9.199464,Friedrich-Ebert-Straße 82, 34613 Schwalmstadt
+52.028978,8.554083,Am Stadtholz 35, 33609 Bielefeld
+52.315362,9.614607,Robert-Bosch-Straße 1, 30989 Gehrden
+51.455269,7.374722,Stockumer Straße 80, 58453 Witten
+48.26866,10.89095,Messerschmittring 2, 86343 Königsbrunn
+48.768157,11.45293,Kurt-Huber-Straße 25, 85055 Ingolstadt
+47.97287,8.834511,Stockacher Straße 186, 78532 Tuttlingen
+52.609372,8.369545,Kruppstraße 1, 49356 Diepholz
+48.736895,13.523089,Außernbrünst 14, 94133 Röhrnbach
+49.457069,11.0412,Fürther Straße 235, 90429 Nürnberg
+48.029162,7.851486,Robert-Bunsen-Straße 3, 79108 Freiburg
+51.962538,8.226673,Hauptstraße 2, 33428 Harsewinkel
+52.967137,11.151026,Dannenberger Straße 32, 29439 Lüchow
+53.48136,10.204742,Lehfeld 6, 21029 Hamburg
+49.67706,9.005106,Reinstraße 3, 64720 Michelstadt
+52.316327,8.62565,Am Dornbusch 2, 32312 Lübbecke
+51.437477,6.647224,Ruhrorter Straße 10, 47441 Moers
+48.038027,10.503626,Hochvogelstraße 5, 87719 Mindelheim
+52.987269,8.782455,Seckenhauser Straße 7, 28844 Weyhe
+50.497069,9.120896,Taubenweg 17, 63679 Schotten
+50.086755,8.646065,Hahnstraße 45, 60528 Frankfurt/Main
+48.734798,9.36133,Fritz-Müller-Straße 151, 73730 Esslingen
+47.899998,9.725466,Industriestraße 10, 88339 Bad Waldsee
+51.841325,7.291452,Auf dem Quellberg 4, 48249 Dülmen
+54.5084,13.384765,Tilzower Weg 38, 18528 Bergen
+49.343484,7.359127,Kaiserslauterer Straße 43, 66424 Homburg
+49.247669,7.352632,Gottlieb-Daimler-Straße 30, 66482 Zweibrücken
+53.583871,7.772156,Industriestraße 2, 26409 Wittmund
+51.369564,12.466348,Torgauer Straße 333, 04347 Leipzig
+50.811902,10.204995,Carl-Benz-Straße 1 - 5, 36433 Leimbach
+50.56517,7.971095,Lindenstraße 1, 56457 Westerburg
+50.886223,9.725665,Am Giegenberg 1, 36251 Bad Hersfeld
+48.880308,8.655578,Adolf-Richter-Straße 13 - 15, 75179 Pforzheim
+50.545102,7.126361,Sebastianstraße 44 - 46, 53474 Bad Neuenahr
+53.24238,10.453321,Dahlenburger Landstraße 35, 21337 Lüneburg
+52.904032,8.443282,Delmenhorster Straße 21, 27793 Wildeshausen
+51.827121,9.439992,Stahler Ufer 5, 37603 Holzminden
+50.93799,6.843257,Aachener Straße 1153 - 1163, 50858 Köln
+52.596915,12.886814,Robert-Bosch-Straße 2, 14641 Nauen
+53.494533,9.970259,Hohe-Schaar-Kamp 5, 21107 Hamburg
+51.29332,9.52711,Sandershäuser Straße 101 + 110, 34123 Kassel
+50.787667,12.682246,Am Sachsenring 5, 09337 Bernsdorf
+49.338174,8.429195,Wormser Landstraße 194, 67346 Speyer
+53.238157,7.44385,Burfehner Weg 98, 26789 Leer
+48.154189,9.470488,Gammertinger Straße 21, 88499 Riedlingen
+47.753684,8.855872,Georg-Fischer-Straße 55 - 57, 78224 Singen
+49.810582,9.986719,Kitzinger Straße 62, 97076 Würzburg
+54.483345,9.083271,Schleswiger Chaussee 98, 25813 Husum
+52.41852,7.83815,Üffelner Straße 9, 49586 Neuenkirchen
+52.733465,7.756497,Allensteiner Straße 6, 49624 Löningen
+49.549389,8.654521,Mannheimer Straße 77, 69469 Weinheim
+50.59017,12.69864,Damaschkestraße 30, 08280 Aue
+50.201963,10.086897,Kapellenstraße 27 - 29, 97688 Bad Kissingen
+50.134354,11.046351,Bamberger Straße 100, 96215 Lichtenfels
+50.79427,6.772871,Bonner Ring 57, 50374 Erftstadt
+48.355081,10.978442,Röntgenstraße 11, 86316 Friedberg
+52.337265,9.765295,Zeißstraße 16, 30519 Hannover
+49.448638,8.476062,Neckarauer Straße 92 - 96, 68199 Mannheim
+48.734798,9.361325,Plochinger Straße 108, 73730 Esslingen
+48.400668,9.97647,Obere Bleiche 2, 89077 Ulm
+48.020502,9.491546,Herbertinger Straße 35, 88348 Bad Saulgau
+48.756261,9.145984,Burgstallstraße 95, 70199 Stuttgart
+53.937528,10.305504,Jasminstraße 1, 23795 Bad Segeberg
+51.77346,9.382535,Lütmarser Straße 26, 37671 Höxter
+49.203438,7.603795,Turnstraße 71, 66953 Pirmasens
+50.778919,6.115726,Gneisenaustraße 46, 52068 Aachen
+48.818196,9.175396,Heilbronner Straße 339, 70469 Stuttgart
+51.665258,7.349347,Industriestraße 2, 45711 Datteln
+49.497405,10.405444,Buchheimer Straße 15, 91438 Bad Windsheim
+50.196386,9.930814,Hans-Bördlein-Straße 15, 97723 Oberthulba
+48.110341,7.852113,Am Elzdamm 2, 79312 Emmendingen
+51.121065,8.067655,Elsper Straße 2, 57368 Lennestadt
+49.628777,9.660816,Pestalozziallee 18, 97941 Tauberbischofsheim
+53.649394,10.034113,Poppenbütteler Weg 5, 22339 Hamburg
+48.453089,10.295288,Robert-Koch-Straße 4, 89312 Günzburg
+51.164181,10.45415,S&amp;G AutomobilAktiengesellscha, ft
+50.68651,7.639905,Kölner Straße 98, 57610 Altenkirchen
+50.532103,9.676505,Frankfurter Straße 125, 36043 Fulda
+50.219918,11.126135,Frohnlacher Straße 1 - 3, 96242 Sonnefeld
+53.682909,10.008713,Segeberger Chaussee 53 - 67, 22850 Norderstedt
+50.121833,8.738102,Hanauer Landstraße 425, 60314 Frankfurt/Main
+50.232331,7.86851,Rheinstraße 43, 56355 Nastätten
+50.940666,11.292098,Holzdorfer Allee 2, 99438 Weimar
+48.707895,9.00197,Neckarstraße 32, 71065 Sindelfingen
+49.365734,10.161745,Schützenstraße 11, 91541 Rothenburg
+48.30435,10.162455,Memminger Straße 54, 89264 Weißenhorn
+51.183837,14.962326,Gottlieb-Daimler-Straße 12, 02828 Görlitz
+51.214864,12.711642,Am Weinberg 1, 04668 Grimma
+53.757744,9.94114,Buchenweg 19, 25479 Ellerau
+51.448754,7.2575,Hanielstraße 2, 44801 Bochum
+51.175754,10.030212,Hessenring 3, 37269 Eschwege
+50.016615,8.286946,Jacob-Schick-Straße 1, 55252 Mainz-Kastel
+51.583211,6.25445,Wettener Straße 18, 47623 Kevelaer
+49.36545,11.161331,In der Lach 76, 90530 Wendelstein
+50.824879,6.247433,Rue de Wattrelos 8 - 10, 52249 Eschweiler
+47.626358,7.812575,Hohe-Flum-Straße 1, 79650 Schopfheim
+51.040521,6.986933,Overfeldweg 67 - 71, 51371 Leverkusen
+48.288875,9.112625,Jahnstraße 2, 72393 Burladingen
+51.339386,13.342388,Teninger Straße 11, 01619 Zeithain
+49.541496,8.465688,Bartensteiner Stich 3, 68307 Mannheim
+51.94148,13.897495,Mühlbergweg 6, 15907 Lübben
+52.412415,13.368027,Daimlerstraße 165, 12277 Berlin
+51.20993,6.8281,Karl-Geusen-Straße 185, 40231 Düsseldorf
+50.650073,7.951052,Jahnstraße 40, 56470 Bad Marienberg
+48.636773,8.066778,Schleif 3, 77855 Achern
+52.91205,12.76894,Bechliner Chaussee, 16816 Neuruppin
+50.830265,6.077992,Roermonder Straße 37, 52134 Herzogenrath
+52.592802,10.067485,Am Ohlhorstberge 5, 29227 Celle
+53.386436,7.207967,Auricher Straße 150, 26721 Emden
+47.866693,12.00052,Westendstraße 2, 83043 Bad Aibling
+50.917983,6.823493,Alfred-Nobel-Straße 11 - 15, 50226 Frechen
+48.38843,10.022168,Zeppelinstraße 27, 89231 Neu-Ulm
+50.145539,7.167131,Moselstraße 29, 56812 Cochem
+47.84267,11.14999,Röntgenstraße 19 - 21, 82362 Weilheim
+53.952498,9.00855,Hafenstraße 78, 25709 Marne
+51.359739,8.293839,Im Schwarzen Bruch 37, 59872 Meschede
+47.785632,10.621738,Frankenstraße 9, 87616 Marktoberdorf
+49.99419,7.118269,Carl-Benz-Straße 25, 56850 Enkirch
+49.429102,11.867501,Heinrich-Hertz-Straße 2, 92224 Amberg
+49.112192,9.782266,Europaplatz 1, 74523 Schwäbisch Hall
+51.40428,9.111051,Arolser Straße 48, 34471 Volkmarsen
+48.834489,9.263754,Merowingerstraße 7 - 9, 70736 Fellbach
+50.424233,10.29695,Oberstreuer Straße 9 - 13, 97638 Mellrichstadt
+51.39555,8.572655,Möhnestraße 54, 59929 Brilon
+54.493167,9.553008,Schulstraße 34, 24866 Schleswig-Busdorf
+52.527239,13.18531,Seeburger Straße 27, 13581 Berlin
+52.194599,8.344752,Johann-Uttinger-Straße 16, 49324 Melle
+52.19682,8.57967,Herforder Straße 125, 32257 Bünde
+49.979565,9.064185,Dr.-Patt-Straße 10, 63811 Stockstadt
+48.109899,9.272936,August-Bebel-Straße 6, 72072 Tübingen
+50.598596,13.018887,Gewerbering 4, 09456 Annaberg
+50.790746,7.227802,Wahnbachtalstraße 20, 53721 Siegburg
+48.529863,11.50631,Münchener Straße 94 - 98, 85276 Pfaffenhofen
+52.371635,14.475705,Goepelstraße 89, 15234 Frankfurt/Oder
+50.421312,10.73156,Coburger Straße 15, 98646 Hildburghausen
+52.92423,9.23011,Ludwigstraße 21 - 27, 27283 Verden
+48.090857,11.655457,Otto-Hahn-Ring 20, 81739 München
+53.806178,10.004682,Henstedter Straße 2, 24629 Kisdorf
+51.254983,12.730901,Wurzener Straße 91, 04668 Grimma
+49.973869,9.12555,Auhofstraße 29, 63741 Aschaffenburg
+50.921362,6.361947,Elisabethstraße 6 - 8, 52428 Jülich
+51.229795,6.480252,Meerweg 25, 41066 Mönchengladbach
+51.289623,13.12403,Nossener Straße 7, 04758 Oschatz
+48.430807,10.86246,Gutenbergstraße 4, 86368 Gersthofen
+49.899198,8.846308,Altstadt 37, 64807 Dieburg
+52.2645,9.06338,Kreuzbreite 1, 31675 Bückeburg
+47.712639,10.30149,Lindauer Straße 111, 87435 Kempten
+49.235745,9.19324,Kocherwaldstraße 32, 74177 Bad Friedrichshall
+47.56939,10.698997,Kemptener Straße 131, 87629 Füssen
+48.096554,11.96506,Gewerbepark Nordost 3 - 4, 85560 Ebersberg
+52.172971,11.575191,Am Großen Silberberg 3, 39130 Magdeburg
+51.608681,7.180015,Westring 45, 45659 Recklinghausen
+51.343142,9.085297,Niederlassung Mannheim-Heidelberg-, Landau
+49.462109,8.171991,Mannheimer Straße 57, 67098 Bad Dürkheim
+50.747352,7.150862,Friedenstraße 53, 53229 Bonn
+49.308897,6.756099,Lisdorfer Straße 29 - 41, 66740 Saarlouis
+50.335143,10.227593,Rudolf-Diesel-Ring 7, 97616 Bad Neustadt
+49.29526,8.701635,In den Weinäckern 13, 69168 Wiesloch
+51.088094,6.620453,Heinrich-Goebel-Straße 16, 41515 Grevenbroich
+54.76046,9.41122,Liebigstraße 2, 24941 Flensburg
+53.549235,8.594311,Stresemannstraße 50, 27570 Bremerhaven
+47.69172,10.039095,Am Galgenbühl 3, 88316 Isny
+50.88475,12.09385,Siemensstraße 49, 07546 Gera
+52.86228,9.5869,Quintusstraße 132, 29664 Walsrode
+47.688358,9.81343,Mühlweg 3, 88239 Wangen
+52.038316,8.824313,Im Hengstfeld 6, 32657 Lemgo
+47.573108,7.798257,Schildgasse 25, 79618 Rheinfelden
+51.60435,13.70392,Gröbitzer Weg 36, 03238 Finsterwalde
+50.508804,12.159103,Dresdener Straße 14, 08529 Plauen
+51.748754,7.899172,Am Vatheuershof 3, 59229 Ahlen
+54.623326,8.969112,Lornsenstraße 28, 25821 Bredstedt
+48.140651,11.738533,Otto-Lilienthal-Ring 18 - 20, 85622 Feldkirchen
+50.64835,11.3572,Rudolstädter Straße 9, 07318 Saalfeld
+47.667977,9.426841,Siemensstraße 3, 88048 Friedrichshafen
+51.518386,6.933771,Karl-Englert-Straße 39, 46236 Bottrop
+48.197076,10.763353,Gottlieb-Daimler-Straße 2, 86830 Schwabmünchen
+52.167511,7.541381,Grevener Damm 73, 48282 Emsdetten
+50.635083,10.703163,Am Fröhlichen Mann 3, 98528 Suhl
+49.300686,10.572037,Liebigstraße 1, 91522 Ansbach
+52.435023,12.549012,Friedrichshafener Straße 23, 14772 Brandenburg
+52.188431,7.03035,Ochtruper Straße 190, 48599 Gronau
+53.072885,7.4235,Kirchstraße 50 - 56, 26871 Papenburg
+49.567841,10.57249,Karl-Eibl-Straße 30, 91413 Neustadt
+52.713418,8.291863,Diepholzer Straße 32, 49377 Vechta
+48.57419,7.81494,Königsberger Straße 30, 77694 Kehl
+51.295296,14.093668,Am Ring 1, 01917 Kamenz
+48.459681,9.953293,Zeppelinstraße 15, 89160 Dornstadt
+48.063376,8.544351,Gutenbergstraße 9, 78056 Villingen-Schwenningen
+50.069693,8.249067,Mainzer Straße 82 - 92, 65189 Wiesbaden
+53.526145,10.236435,Gutenbergstraße 26, 21465 Reinbek
+48.795811,8.198875,Wilhelm-Drapp-Straße 19, 76532 Baden-Baden
+52.514412,13.330441,Salzufer 1, 10587 Berlin
+52.795188,13.275491,Friedrichsthaler Straße 22, 16515 Oranienburg
+53.959611,9.125844,Vogelsbergstraße 90, 63654 Büdingen
+48.438762,7.929685,Carl-Zeiss-Straße 15, 77656 Offenburg
+51.534017,7.711434,Max-Planck-Straße 5, 59423 Unna
+49.000815,9.76995,Karlstraße 113, 74405 Gaildorf
+53.124754,8.089061,Friedrichsfehner Straße 6, 26188 Edewecht
+49.233743,7.269658,Auf Scharlen, 66440 Blieskastel
+54.194813,9.124942,Lise-Meitner-Straße 1, 25746 Heide
+49.412508,6.889573,Hans-Schardt-Straße 2, 66822 Lebach
+49.206796,12.679162,Gewerbepark Chammünster Nord A3, 93413 Cham
+54.318335,10.17901,Klausdorfer Weg 169, 24148 Kiel
+51.49546,7.443807,Wittekindstraße 99, 44139 Dortmund
+50.857819,9.722669,Carl-Benz-Straße 2, 36251 Bad Hersfeld
+49.618622,8.354711,Cornelius-Heyl-Straße 57, 67547 Worms
+51.169775,6.93707,Walder Straße 418, 40724 Hilden
+48.436166,10.865009,Messerschmittstraße 2, 86368 Gersthofen
+50.91822,13.037815,An der Autobahn 2, 09669 Frankenberg
+50.662105,6.78629,Kölner Straße 245, 53879 Euskirchen
+48.229058,9.025991,Konrad-Adenauer-Straße 12, 72461 Albstadt
+51.76468,14.359559,Paul-Greifzu-Straße 1, 03042 Cottbus
+51.251438,7.809925,Teindeln 20, 58840 Plettenberg
+48.226886,12.677663,Burghauser Straße 71, 84503 Altötting
+49.4533,10.99401,Georg-Benda-Straße 1, 90763 Fürth
+48.283451,9.740993,Alter Postweg 47, 89584 Ehingen
+53.295765,9.27964,Südring 36, 27404 Zeven
+48.805664,9.214091,Mercedesstraße 102, 70372 Stuttgart
+51.462239,11.268166,Auenweg 1, 06526 Sangerhausen
+52.102166,12.670228,Im Gewerbepark Seedoche 1, 14806 Bad Belzig
+51.822892,8.142317,Lindenstraße 31, 59302 Oelde
+51.507515,10.240939,Am Euzenberg 27, 37115 Duderstadt
+50.636357,9.392679,Umgehungsstraße 29 - 31, 36341 Lauterbach
+49.174713,12.854564,Lehmgasse 11, 93444 Bad Kötzting
+48.554783,13.416257,Traminer Straße 2, 94036 Passau
+51.735355,8.766993,Detmolder Straße 107 - 109, 33100 Paderborn
+48.905657,9.135654,Neckarstraße 8, 71679 Asperg
+48.535894,8.063544,Hammermatt 5 - 7, 77704 Oberkirch
+49.980579,8.23286,Mercedesstraße 1, 55128 Mainz
+53.568137,11.377958,Otto-Hahn-Straße 1, 19061 Schwerin
+48.553523,8.711196,Altensteiger Straße 47 - 49, 72202 Nagold
+51.958793,8.581354,Industriestraße 45, 33689 Bielefeld
+48.735448,12.190175,Hauptstraße 100, 84088 Neufahrn
+49.069085,10.31943,Luitpoldstraße 20, 91550 Dinkelsbühl
+49.246248,11.090594,Fuggerstraße 11, 91154 Roth
+49.136586,8.591305,Stegwiesenstraße 7, 76646 Bruchsal
+48.834828,12.139757,Dieselstraße 1, 84069 Schierling
+49.271508,7.127562,Im Pottaschwald 23 A, 66386 St. Ingbert
+51.313198,12.396008,Richard-Lehmann-Straße 120, 04277 Leipzig
+51.817612,9.854851,Hullerser Landstraße 4 - 6, 37574 Einbeck
+53.14162,8.170019,Ammerländer Heerstraße 166 - 176, 26129 Oldenburg
+54.134292,10.885068,Rettiner Weg 69 - 75, 23730 Neustadt
+47.74942,9.60217,Jahnstraße 80, 88214 Ravensburg
+49.176447,11.730907,Eichenbühl 1, 92331 Lupburg
+52.429179,13.754577,Julius-Rütgers-Straße 1, 15537 Erkner
+50.611118,8.71515,Marburger Straße 308, 35396 Gießen
+48.109899,9.272936,Schaffhausenstraße 115, 72072 Tübingen
+52.59647,10.112027,Hans-H.-Warnke-Straße 10, 29227 Celle
+50.439535,7.488884,Breslauer Straße 84- 86, 56566 Neuwied
+50.086317,9.073625,Hanauer Straße 124, 63755 Alzenau
+51.30635,6.27778,Lötscher Weg 71, 41334 Nettetal
+49.115677,10.752891,Oettinger Straße 6 C, 91710 Gunzenhausen
+51.79326,11.73456,Carl-Zeiss-Straße 1, 06406 Bernburg
+51.767025,7.430697,Seppenrader Straße 18, 59348 Lüdinghausen
+50.576401,8.491431,Wetzlarer Straße 36, 35586 Wetzlar
+49.907148,10.349454,Adam-Stegerwald-Straße 16, 97447 Gerolzhofen
+51.28162,7.188578,Winchenbachstraße 23 - 25, 42281 Wuppertal
+51.190212,14.461667,Kreckwitzer Straße 13, 02625 Bautzen
+49.123798,8.708441,Karlsruher Straße 27, 76703 Kraichtal
+50.053438,10.217437,Franz-Schubert-Straße 32, 97421 Schweinfurt
+52.43873,9.70521,Mercedesstraße 1 - 3, 30855 Langenhagen
+51.113385,6.95112,Hansastraße 1, 40764 Langenfeld
+48.948971,8.9702,Steinbeisstraße 60, 71665 Vaihingen
+52.514211,13.649811,Neuer Hönower Weg 3, 15366 Hoppegarten
+51.684187,8.361914,Lipperoder Straße 71, 59555 Lippstadt
+51.839349,6.603548,Westend 38 - 40, 46399 Bocholt
+50.836777,6.297603,Hermann-Hollerith-Straße 2, 52249 Eschweiler
+52.303048,8.612882,Rahdener Straße 139, 32312 Lübbecke
+50.89798,14.79249,Hörnitzer Straße 3, 02763 Zittau
+51.559131,14.354827,Otto-von-Guericke-Straße 1, 03130 Spremberg
+50.946969,10.691144,Humboldtstraße 18, 99867 Gotha
+50.784134,7.873577,Kölner Straße 166, 57518 Betzdorf
+50.441149,7.400946,Kölner Straße 19 - 21, 56626 Andernach
+51.429025,7.994505,Eickelstraße 8 - 10, 59759 Arnsberg/Bruchhausen
+48.274875,8.595287,Wehrstraße 11, 78727 Oberndorf a.N.
+48.316921,11.66226,Münchner Straße 17, 85375 Neufahrn
+51.903168,8.616333,Bielefelder Straße 10, 33758 Schloß Holte-Stukenbrock
+49.033013,10.97214,Augsburger Straße 73, 91781 Weißenburg
+53.14162,8.170019,Bremer Heerstraße 267, 26129 Oldenburg
+51.350148,11.979041,Henckelstraße 1, 06217 Merseburg
+52.965575,10.560615,Oldenstädter Straße 68, 29525 Uelzen
+51.523088,7.442643,Sunderweg 100, 44147 Dortmund
+51.5921,11.93496,Carl-Benz-Straße 1, 06193 Petersberg bei Halle
+51.723065,9.016926,Dringenberger Straße 52, 33014 Bad Driburg
+53.461826,9.695998,Lüneburger Schanze 14, 21614 Buxtehude
+54.900136,8.338618,Mittelweg 3, 25980 Sylt-Ost
+51.12151,12.50153,Gewerbegebiet West 10, 04552 Eula
+49.672609,10.151192,Mainleite 1, 97340 Marktbreit
+49.134172,10.037392,Ludwig-Erhard-Straße 125, 74564 Crailsheim
+48.239732,9.883119,Ulmer Straße 95, 88471 Laupheim
+48.15004,11.54444,Arnulfstraße 61, 80636 München
+53.06798,8.80162,Kornstraße 255, 28201 Bremen
+49.421539,7.78643,Merkurstraße 17, 67663 Kaiserslautern
+50.835502,10.948531,Ichtershäuser Straße 4, 99310 Arnstadt
+50.326685,7.223234,Polcher Straße 140, 56727 Mayen
+48.36081,8.963005,Max-Eyth-Straße 4, 72379 Hechingen
+48.890609,11.184313,Industriestraße 22, 85072 Eichstätt
+49.973869,9.12555,Weichertstraße 13, 63741 Aschaffenburg
+48.801725,9.01431,Görlitzer Straße 1, 71229 Leonberg
+53.544845,10.030519,Heidenkampsweg 96, 20097 Hamburg
+50.439535,7.488884,Breslauer Straße 84 - 86, 56566 Neuwied
+48.43539,10.866259,Senefelder Straße 23, 86368 Gersthofen
+51.375693,6.415797,Otto-Schott-Straße 7, 47906 Kempen
+53.819066,10.539872,Stubbendorfer Ring 13, 23858 Reinfeld
+51.429025,7.994505,Eickelstraße 8 - 10, 59759 Arnsberg
+51.458923,6.998182,Altendorfer Straße 44 C, 45127 Essen
+48.729418,9.251188,Siemensstraße 20, 73760 Ostfildern
+52.212254,8.273252,Zur Femlinde 24 - 26, 49326 Melle
+47.812943,12.119073,Rosenheimer Straße 110, 83064 Raubling
+48.467572,8.430736,Heisenbergstraße 1, 72250 Freudenstadt
+51.123412,9.282387,Berliner Straße 8, 34560 Fritzlar
+53.568808,9.918054,Bornkampsweg 146, 22761 Hamburg
+50.275801,10.983538,Rosenauer Straße 113, 96450 Coburg
+54.242963,10.27797,Kieler Straße 27, 24211 Preetz
+53.4856,9.141604,Ernst-Bode-Straße 4 - 6, 27432 Bremervörde
+50.380951,7.57316,Friedrich-Mohr-Straße 6, 56070 Koblenz
+50.897317,10.849008,Gottlieb-Daimler-Straße 5, 99869 Schwabhausen/Gotha
+51.141635,11.843431,Über dem Rosenthal 1, 06618 Naumburg/Wethau
+48.020782,11.907346,Münchener Straße 55, 85567 Grafing
+54.900136,8.338618,Mittelweg 3, 25980 Sylt OT Tinnum
+50.481504,8.287153,Keilswingert 3, 35781 Weilburg
+51.674338,9.375308,Blankenauer Straße 9, 37688 Beverungen
+53.875312,10.6647,Fackenburger Allee 66, 23554 Lübeck
+49.676167,8.592673,Robert-Bosch-Straße 36, 64625 Bensheim
+53.345318,13.871886,Automeile 11, 17291 Prenzlau
+51.978245,12.058386,Am Kux Winkel 8, 39261 Zerbst
+52.210283,7.188616,Schützenstraße 131, 48607 Ochtrup
+53.018489,11.742713,Bentwischer Weg 56, 19322 Wittenberge
+52.110858,8.659789,Bielefelder Straße 48, 32051 Herford
+51.55687,7.912345,Hammer Straße 101, 59457 Werl
+52.355965,13.114455,Verkehrshof 17, 14478 Potsdam
+52.098627,13.138165,Frankenfelder Chaussee 1, 14943 Luckenwalde
+48.408745,9.06278,Bahnhofstraße 48, 72116 Mössingen
+51.164181,10.45415,GmbH &amp; Co. KG, AutorisierterMercedes-, Benz Verkauf und Service
+51.925164,7.572744,Meckmannweg 1, 48163 Münster
+52.623088,9.240415,Nienburger Damm 11, 31582 Nienburg
+51.164085,6.668139,Ziegeleistraße 5, 41472 Neuss
+47.988627,7.798381,St.-Georgener-Straße 1, 79111 Freiburg
+49.980998,6.90278,Gottlieb-Daimler-Straße 6, 54516 Wittlich
+50.940681,6.84212,Daimlerstraße 9, 50859 Köln
+52.42111,10.841717,Daimlerstraße 13 - 15, 38446 Wolfsburg
+47.612584,7.664097,Bärenfelser Straße 8, 79539 Lörrach
+53.684828,10.260286,Kurt-Fischer-Straße 17 - 19, 22926 Ahrensburg
+52.323783,9.201856,Vornhäger Straße 69, 31655 Stadthagen
+47.99854,7.849655,Wilhelmstraße 3 A, 79098 Freiburg
+52.380392,13.13046,Gerlachstraße 14, 14480 Potsdam
+53.647319,11.348535,Bremsweg 4, 19057 Schwerin
+49.897432,8.615224,In der Krümme 3, 64331 Weiterstadt
+52.170439,9.932284,Mastbergstraße 5, 31137 Hildesheim
+52.382877,9.974801,Iltener Straße 1, 31275 Lehrte
+48.391306,13.302616,Simbacher Straße 65, 94060 Pocking
+49.444895,7.78664,Altenwoogstraße 60 - 62, 67655 Kaiserslautern
+53.812525,10.375623,Segeberger Straße 1, 23843 Bad Oldesloe
+51.50475,6.872456,Fahnhorststraße 101, 46117 Oberhausen
+49.742188,6.563402,Eurener Straße 81, 54294 Trier
+48.623158,9.35901,Otto-Hahn-Straße 8, 72622 Nürtingen
+51.955802,7.971527,Am Hellegraben 1, 48231 Warendorf
+51.392355,12.791865,Schützstraße 3, 04808 Wurzen
+48.385024,10.034109,Von-Liebig-Straße 10, 89231 Neu-Ulm
+51.285849,7.273541,In der Graslake 33, 58332 Schwelm
+53.057295,8.960065,Osterholzer Heerstraße 215, 28307 Bremen
+51.652283,6.433127,Sonsbecker Straße 46, 46509 Xanten
+51.51326,7.05526,Schwarzmühlenstraße 36, 45883 Gelsenkirchen
+50.691155,10.93877,Am Vogelherd 1, 98693 Ilmenau
+50.691845,6.484137,Liebergstraße 66 - 68, 52385 Nideggen
+53.328281,9.880122,Soltauer Straße 66 - 72, 21244 Buchholz
+52.577185,13.295916,Holzhauser Straße 11, 13509 Berlin
+51.196292,6.694103,Leuschstraße 10, 41460 Neuss
+52.042974,8.154941,Münsterstraße 24, 33775 Versmold
+50.24052,6.66014,Vulkanring 2, 54568 Gerolstein
+50.187475,9.172569,Zum Sonnenberg 1 - 3, 63571 Gelnhausen
+51.794101,6.147551,Emmericher Straße 271, 47533 Kleve
+48.370335,10.897892,Nürnberger Straße 2, 86156 Augsburg
+49.856811,7.896458,Mainzer Straße 4 - 8, 55545 Bad Kreuznach
+53.687386,9.16725,Gottlieb-Daimler-Straße 1, 21745 Hemmoor
+49.019452,8.462138,Am Storrenacker 1, 76139 Karlsruhe
+50.719438,10.437288,Auer Weg 11, 98574 Schmalkalden
+51.583817,7.044963,Nordring 12, 45894 Gelsenkirchen
+50.8304,6.90557,Fischenicher Straße 19, 50321 Brühl
+53.160866,12.455066,Prignitzer Straße 12, 16909 Wittstock
+48.573484,10.835851,Gewerbestraße 19, 86707 Westendorf
+48.363941,10.845709,Benzstraße 2, 86391 Stadtbergen
+49.502769,11.11078,Neumeyerstraße 7 - 11, 90411 Nürnberg
+49.317742,12.103523,Regensburger Straße 47, 92421 Schwandorf
+52.520092,8.200386,Südring 14, 49401 Damme
+47.902546,8.149421,Gewerbestraße 3, 79822 Titisee-Neustadt
+51.169775,6.93707,Im Hülsenfeld 1, 40721 Hilden
+48.779905,9.230064,Ulmer Straße 196, 70188 Stuttgart
+47.750355,11.738605,Tegernseer Straße 15, 83703 Gmund
+49.972255,6.52291,Saarstraße 52, 54634 Bitburg
+47.961282,12.6088,Trostberger Straße 8, 83301 Traunreut
+50.737039,9.004459,Niederkleiner Weg 13, 35315 Homberg
+47.808341,7.62835,Kinzigstraße 5, 79379 Müllheim
+49.010079,12.092303,Friedenstraße 8, 93051 Regensburg
+54.04491,10.00081,Grüner Weg 41, 24539 Neumünster
+50.003592,12.077003,Bayreuther Straße 2, 95615 Marktredwitz
+48.636665,9.011795,Umgehungsstraße 19, 71088 Holzgerlingen
+51.850338,10.785734,Dornbergsweg 41, 38855 Wernigerode
+50.568221,7.279943,Asbacher Straße 119, 53545 Linz
+48.465776,9.226911,Daimlerstraße 10 - 15, 72793 Pfullingen
+53.111897,9.409167,Industriestraße 12 - 16, 27356 Rotenburg
+49.507963,8.636337,Im Rott 1, 69493 Hirschberg
+49.398581,8.559707,Essener Straße 16, 68723 Schwetzingen
+48.772404,11.480652,Goethestraße 14, 85055 Ingolstadt
+49.974241,9.771075,Am Hammersteig 1, 97753 Karlstadt
+51.54764,7.30899,Daimlerstraße 1, 44575 Castrop-Rauxel
+48.077841,8.450575,Max-Planck-Straße 3 - 5, 78052 Villingen-Schwenningen
+51.981125,9.25132,Südstraße 9, 31812 Bad Pyrmont
+51.96525,8.558828,Brackweder Straße 221, 33659 Bielefeld
+50.945578,6.894731,Mercedes-Allee 1, 50825 Köln
+51.593448,11.938598,Carl-Benz-Straße 1, 06193 Halle (Götschetal)
+50.070804,7.441866,Zeller Straße 25 - 27, 56288 Kastellaun
+54.46305,9.814385,Rendsburger Straße 54 - 56, 24340 Eckernförde
+53.51094,12.78299,Siegfried-Marcus-Straße 7, 17192 Waren
+50.752665,9.269485,Grünberger Straße 109, 36304 Alsfeld
+47.879309,10.62393,Sudetenstraße 4, 87600 Kaufbeuren
+49.818795,9.62739,Am Bäuerleinsberg 1, 97837 Erlenbach
+50.070518,8.474143,Heddingheimer Straße 10, 65795 Hattersheim
+49.480045,11.062454,Wilhelmshavener Straße 10, 90425 Nürnberg
+48.857306,8.201429,Karlstraße 30 B, 76437 Rastatt
+50.49787,12.16702,Dresdner Straße 14, 08529 Plauen
+52.56527,13.725685,Am Fuchsbau 1, 15345 Eggersdorf
+52.916265,8.808891,Am Ristedter Weg 5, 28857 Syke
+53.649965,9.82987,Hauptstraße 110, 25462 Rellingen
+48.491932,9.396989,Schützenstraße 2, 72574 Bad Urach
+51.164181,10.45415,Karl-Friedrich-Benz-, Straße 7
+48.613251,9.44088,Kirchheimer Straße 182, 73265 Dettingen
+53.592588,9.910654,Bornmoor 1, 22525 Hamburg
